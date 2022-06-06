@@ -1,4 +1,4 @@
-[Tutorial do Jekyll] (https://jekyllrb.com/docs/step-by-step/01-setup/)
+[Tutorial do Jekyll](https://jekyllrb.com/docs/step-by-step/01-setup/)
 
 
 ---
